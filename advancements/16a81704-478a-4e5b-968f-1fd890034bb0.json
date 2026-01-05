@@ -3324,6 +3324,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2026-01-04 21:43:25 -0500",
       "wheat": "2026-01-01 21:42:54 -0500"
     },
     "done": false
@@ -3790,33 +3791,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2026-01-03 20:12:28 -0500"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/light_gray_sofa": {
-    "criteria": {
-      "has_wool": "2026-01-03 19:35:56 -0500"
-    },
-    "done": true
-  },
   "another_furniture:recipes/cherry_chair": {
     "criteria": {
       "has_planks": "2026-01-03 19:25:37 -0500"
-    },
-    "done": true
-  },
-  "chococraft:recipes/food/pickled_gysahl_raw": {
-    "criteria": {
-      "has_gysahl_green": "2026-01-03 20:30:48 -0500"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/gysahl_green_to_seeds": {
-    "criteria": {
-      "has_gysahl_green": "2026-01-03 20:30:48 -0500"
     },
     "done": true
   },
@@ -3826,33 +3803,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2026-01-03 20:12:28 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "cabbage_seeds": "2026-01-03 20:08:55 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2026-01-03 19:25:37 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2026-01-03 20:06:35 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2026-01-03 20:12:28 -0500"
     },
     "done": true
   },
@@ -3868,87 +3821,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2026-01-03 20:12:28 -0500"
-    },
-    "done": true
-  },
-  "chococraft:recipes/food/gysahl_cake": {
-    "criteria": {
-      "has_gysahl_green": "2026-01-03 20:30:48 -0500"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2026-01-03 20:12:28 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2026-01-03 20:12:28 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2026-01-03 20:11:47 -0500"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/red_gysahl": {
-    "criteria": {
-      "has_gysahl_green": "2026-01-03 20:30:48 -0500"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2026-01-03 19:29:21 -0500"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocopedia": {
-    "criteria": {
-      "has_gysahl_green": "2026-01-03 20:30:48 -0500"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2026-01-03 19:27:03 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2026-01-03 19:35:56 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2026-01-03 19:25:37 -0500"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/pink_gysahl": {
-    "criteria": {
-      "has_gysahl_green": "2026-01-03 20:30:48 -0500"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/light_gray_tall_stool": {
-    "criteria": {
-      "has_wool": "2026-01-03 19:35:56 -0500"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/light_gray_stool": {
-    "criteria": {
-      "has_wool": "2026-01-03 19:35:56 -0500"
     },
     "done": true
   },
@@ -3957,12 +3832,6 @@
       "has_planks": "2026-01-03 19:25:37 -0500"
     },
     "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:sheep": "2026-01-03 19:55:04 -0500"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
@@ -3976,9 +3845,57 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_lectern": {
+  "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
-      "has_bookshelf": "2026-01-03 20:12:24 -0500"
+      "has_planks": "2026-01-03 19:25:37 -0500"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_table": {
+    "criteria": {
+      "has_planks": "2026-01-03 19:25:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-01-03 19:27:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2026-01-03 19:28:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-01-03 19:29:21 -0500"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2026-01-03 19:35:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2026-01-03 19:35:56 -0500"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2026-01-03 19:35:56 -0500"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_stool": {
+    "criteria": {
+      "has_wool": "2026-01-03 19:35:56 -0500"
     },
     "done": true
   },
@@ -4000,27 +3917,213 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2026-01-03 19:28:57 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2026-01-03 19:25:37 -0500"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/cherry_table": {
-    "criteria": {
-      "has_planks": "2026-01-03 19:25:37 -0500"
-    },
-    "done": true
-  },
   "another_furniture:recipes/light_gray_lamp": {
     "criteria": {
       "has_wool": "2026-01-03 19:35:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2026-01-03 19:55:04 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2026-01-03 20:06:35 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2026-01-03 20:08:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2026-01-03 20:11:47 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2026-01-03 20:12:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-01-03 20:12:28 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-01-03 20:12:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2026-01-03 20:12:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-01-03 20:12:28 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2026-01-03 20:12:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2026-01-03 20:12:28 -0500"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2026-01-03 20:30:48 -0500"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2026-01-03 20:30:48 -0500"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/gysahl_cake": {
+    "criteria": {
+      "has_gysahl_green": "2026-01-03 20:30:48 -0500"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/red_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2026-01-03 20:30:48 -0500"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2026-01-03 20:30:48 -0500"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2026-01-03 20:30:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2026-01-04 21:35:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2026-01-04 21:35:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2026-01-04 21:35:51 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/incognito_mask": {
+    "criteria": {
+      "has_leather": "2026-01-04 21:35:51 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2026-01-04 21:43:47 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-01-04 21:43:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2026-01-04 21:35:51 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2026-01-04 21:43:47 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2026-01-04 21:35:51 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2026-01-04 21:43:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2026-01-04 21:35:51 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2026-01-04 21:35:51 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2026-01-04 21:43:47 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2026-01-04 21:43:47 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2026-01-04 21:43:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2026-01-04 21:35:51 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_ropelogged_tomato": {
+    "criteria": {
+      "harvest_ropelogged_tomato": "2026-01-04 21:43:46 -0500"
     },
     "done": true
   },
